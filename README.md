@@ -5,7 +5,9 @@
 
 ### Блок-схема алгоритма
 
-<img width="1708" height="2124" alt="3" src="https://github.com/user-attachments/assets/744cb2ce-9113-4fcf-bf9b-f0b4f9cae318" />
+![Блок-схема алгоритма](flowchart.svg)
+
+[Открыть блок-схему в draw.io](https://app.diagrams.net/?lang=ru#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FDregMenlion%2Flab-8%2Fmaster%2Fflowchart.drawio)
 
 # Информация о разработчике
 
